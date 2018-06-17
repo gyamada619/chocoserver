@@ -1,3 +1,5 @@
+![chocologo](http://devopspecialist.co.uk/wp-content/uploads/2016/09/choco-logo.jpg)
+
 # Chocoserver
 This Terraform module creates a server with the recommended specs for Chocolately.Server.
 
