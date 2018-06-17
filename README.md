@@ -5,7 +5,7 @@ This Terraform module creates a server with the recommended specs for Chocolatel
 
 ```
 module "chocoserver" {
-  source = "git@github.com:gyamada619/chocoserver.git"
+  source = "git@github.com:gyamada619/terraform-aws-chocoserver.git"
   key_name = "your-SSH-key"
   region = "us-east-1"
 }
