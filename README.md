@@ -1,5 +1,5 @@
 # Chocoserver
-A basic Terraform module to spin up an EC2 instance used for Chocolately.Server.
+This Terraform module creates a server with the recommended specs for Chocolately.Server.
 
 ### Terraform Usage
 
